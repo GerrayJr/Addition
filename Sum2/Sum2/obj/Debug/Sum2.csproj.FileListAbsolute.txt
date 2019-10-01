@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Sum2\Sum2\bin\Sum2.dll.config
+c:\users\user\documents\visual studio 2013\Projects\Sum2\Sum2\bin\Sum2.dll
+c:\users\user\documents\visual studio 2013\Projects\Sum2\Sum2\bin\Sum2.pdb
+c:\users\user\documents\visual studio 2013\Projects\Sum2\Sum2\obj\Debug\Sum2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Sum2\Sum2\obj\Debug\Sum2.dll
+c:\users\user\documents\visual studio 2013\Projects\Sum2\Sum2\obj\Debug\Sum2.pdb
